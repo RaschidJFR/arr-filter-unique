@@ -1,0 +1,27 @@
+{
+  "name": "arr-filter-unique",
+  "version": "1.0.0",
+  "description": "Helper function to filter unique items in arrays",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "filter",
+    "unique"
+  ],
+  "author": "Raschid J.F. Rafaelly",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaschidJFR/arr-filter-unique.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RaschidJFR/arr-filter-unique/issues"
+  },
+  "homepage": "https://github.com/RaschidJFR/arr-filter-unique#readme"
+}
