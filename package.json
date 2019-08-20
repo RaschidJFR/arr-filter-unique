@@ -1,6 +1,6 @@
 {
   "name": "arr-filter-unique",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Helper function to filter unique items in arrays",
   "main": "index.js",
   "types": "index.d.ts",

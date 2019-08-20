@@ -11,6 +11,7 @@ Simplest use:
 
 ```js
 const arrFilterUnique = require('arr-filter-unique');
+// For typescript use: import * as arrFilterUnique from 'arr-filter-unique';
 
 arrFilterUnique([1, 1, 2, 3, 3, 4, 5, 5]);
 // [1, 2, 3, 4, 5]
@@ -78,3 +79,10 @@ const uniqueLastnames = uniqueLastnameMovies.map(movie => movie.starring.lastnam
 
 ## Contribute
 Hope this helps you. Feel free to clone and send PR 🙂
+
+## Credits
+Raschid JF. Rafaelly
+
+<me@raschidjfr.dev>
+
+https://raschidjfr.dev
