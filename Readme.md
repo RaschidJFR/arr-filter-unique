@@ -69,7 +69,7 @@ const uniqueLastnames = uniqueLastnameMovies.map(movie => movie.starring.lastnam
 ```
 
 ### API
-| Paremeter | Type     | Needed | Description                                                                                    |
+| Parameter | Type     | Needed | Description                                                                                    |
 | --------- | -------- | ------ | ---------------------------------------------------------------------------------------------- |
 | `array`   | `any[]`  | yes    | The array to filter                                                                            |
 | `key`     | `string` | no     | If provided, objects are compared by this key. Can use dot notation: `path.to.identifying.key` |

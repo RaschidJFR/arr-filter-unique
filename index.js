@@ -18,10 +18,8 @@ function arrFilterUnique(array, key = undefined) {
     if (segments.length < 2)
       return object[path];
 
-    segments.forEach(() => {
-      const k = segments.shift();
-      return getValue(object[k], segments.join('.'));
-    });
+    const k = segments.shift();
+    return getValue(object[k], segments.join('.'));
   }
 }
 
