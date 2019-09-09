@@ -4,7 +4,7 @@
  * @example
  * 	const arrFilterUnique = require('arr-filter-unique');
  * 	const uniqueAuthorLastnames = arrFilterUnique(books, 'author.lastname');
- * @author Raschid J.F. Rafaelly <lachachi&commat;gmail.com>
+ * @author Raschid J.F. Rafaelly <hello&commat;raschidjfr.dev>
  */
 function arrFilterUnique(array, key = undefined) {
   return array.filter((o, i, arr) => arr.findIndex(oo => {
