@@ -83,6 +83,6 @@ Hope this helps you. Feel free to clone and send PR 🙂
 ## Credits
 Raschid JF. Rafaelly
 
-<me@raschidjfr.dev>
+<hello@raschidjfr.dev>
 
 https://raschidjfr.dev
