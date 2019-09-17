@@ -1,5 +1,8 @@
 # Changelog
 
+## Unrelease
+* safe check for unexistent properties
+
 ## 1.1.1 (2019-08-21)
 Fixed internal loop to get nested values correctly
 
